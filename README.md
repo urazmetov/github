@@ -8,3 +8,4 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf9" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" />
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
