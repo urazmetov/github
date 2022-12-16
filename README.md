@@ -4,3 +4,4 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7ED&center=true&width=435&lines=Computer+science+student" alt="Typing SVG" /></a>
 <img src="https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
 " alt="statistic"/>
+<img alt="Custom badge" src="https://img.shields.io/endpoint?color=green&label=VScode&logo=%2B%2B&logoColor=yellow">
